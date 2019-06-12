@@ -1,15 +1,15 @@
 set nocompatible
 syntax on
-set autoindent "×Ô¶¯Ëõ½ø
+set autoindent "è‡ªåŠ¨ç¼©è¿›
 set number
 set mouse=a
-set encoding=utf-8 "ÏÔÊ¾±àÂë
+set encoding=utf-8 "æ˜¾ç¤ºç¼–ç 
 set fileencodings=utf-8,gbk
-set fileencoding=utf-8 "±£´æ±àÂë
-set ambiwidth=double    "ÉèÖÃÖĞÎÄÖ§³Ö
+set fileencoding=utf-8 "ä¿å­˜ç¼–ç 
+set ambiwidth=double    "è®¾ç½®ä¸­æ–‡æ”¯æŒ
 set backspace=indent,eol,start
 set mouse=a
-set shiftwidth=4    "Ä¬ÈÏËõ½ø4¸ö¿Õ¸ñ
-set softtabstop=4   "Ê¹ÓÃtabÊ±£¬tab¿Õ¸ñÊı
-set tabstop=4   "tab´ú±í4¸ö¿Õ¸ñ
-set expandtab   "Ê¹ÓÃtab´úÌæ¿Õ¸ñ
+set shiftwidth=4    "é»˜è®¤ç¼©è¿›4ä¸ªç©ºæ ¼
+set softtabstop=4   "ä½¿ç”¨tabæ—¶ï¼Œtabç©ºæ ¼æ•°
+set tabstop=4   "tabä»£è¡¨4ä¸ªç©ºæ ¼
+set expandtab   "ä½¿ç”¨SOFTtabä»£æ›¿ç©ºæ ¼
